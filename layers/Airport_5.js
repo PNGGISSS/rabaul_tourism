@@ -1,0 +1,1 @@
+var json_Airport_5 = {"type":"FeatureCollection","name":"Airport_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Name":"Tokua Airport"},"geometry":{"type":"Point","coordinates":[152.377633834846648,-4.340839902091754]}}]}
